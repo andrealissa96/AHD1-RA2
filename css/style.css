@@ -1,0 +1,8 @@
+/*FICHERO DE ESTILOS GENERALES*/
+@import url('https://fonts.googleapis.com/css2?family=Ribeye&display=swap');
+
+body{
+    margin: 0;
+    font-family: Ribeye;
+    font-size: 14px;
+}

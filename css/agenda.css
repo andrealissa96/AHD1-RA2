@@ -1,0 +1,41 @@
+.agenda{
+    background-color: #C7D1f9;
+    width: 100%;
+    height: 300px;
+    padding: 50px;
+    box-sizing: border-box;
+}
+
+h2{
+    text-align: center;
+    padding-bottom: 20px;
+}
+.tablaa{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tabla{
+    width: 70%;
+     
+}
+
+.encabezado{
+    background-color: darkblue;
+    color: white;
+     
+    
+}
+
+.cuerpo{
+    background-color: white;
+    text-align: center;
+}
+
+.color1{
+    background-color: #5775ef;
+}
+td{
+    border-bottom: darkblue solid 3px;
+    border-left: darkblue solid 3px;
+}
